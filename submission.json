@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful emotional scene of the Earth shaped like a melting ice cream, dripping and collapsing under heat, realistic textures, dramatic lighting, climate change symbolism, no text, no charts, no labels, cinematic composition",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Temperature Data",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperatures are rising rapidly, causing irreversible damage to the planet."
+}
